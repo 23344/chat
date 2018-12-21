@@ -1,0 +1,32 @@
+			/* 整个聊天框 */
+			.container-fluid{
+				background-color: aquamarine;
+				height: 600px;
+			}
+			/* 开头部分 */
+			.one{
+				height: 50px;
+				background-color: #2AABD2;
+			}
+			/* 开头标题 */
+			.one .title{
+				margin: auto auto;
+			}
+			/* 聊天内容部分 */
+			.center{
+				height:450px;
+				background-color: #5CB85C;
+			}
+			/* 底部文本框和按钮 */
+			.foot{
+				height: 100px;
+				/* background-color: #B92C28; */
+			}
+			/* 底部文本框 */
+			.foot .foot-txt{
+				background-color: antiquewhite;
+			}
+			/* 底部按钮 */
+			.foot .foot-button{
+				background-color: blue;
+			}
